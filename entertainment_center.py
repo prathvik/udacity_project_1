@@ -1,6 +1,8 @@
 import fresh_tomatoes
 import media
 
+''' Script to produce movie website.  '''
+
 
 vivegam = media.Movie("VIVEGAM",
                       " ",
